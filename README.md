@@ -68,7 +68,7 @@ Eventease provides a seamless experience for users to create, participate in, an
 
     ```bash
     git clone https://github.com/dipesh-db/Event_Ease.git
-    cd Eventease/backend
+    cd Event_Ease/backend
     ```
 
 2. Set up a virtual environment and activate it:

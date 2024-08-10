@@ -67,7 +67,7 @@ Eventease provides a seamless experience for users to create, participate in, an
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/Eventease.git
+    git clone https://github.com/dipesh-db/Eventease.git
     cd Eventease/backend
     ```
 
